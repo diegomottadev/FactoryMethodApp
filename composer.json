@@ -1,0 +1,20 @@
+{
+  "name": "FactoryMethod",
+  "description": "Patterns design",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Diego Ivan Motta",
+      "email": "diegomottade@gmail.com"
+    }
+  ],
+  "require": {
+    "tightenco/collect": "^7.25"
+  },
+  "autoload": {
+    "psr-4": {
+      "FactoryMethod\\": "src/"
+    }
+  }
+}
